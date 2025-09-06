@@ -1,0 +1,4 @@
+While working on this project, I ran into a lot of errors. At first, Postman kept showing Cannot POST /api/students%0A which turned out to be a problem with the URL I typed. I also had issues with the database connection. 
+I changed ports and got SSL errors like WRONG_VERSION_NUMBER, and sometimes the server just refused to connect. On top of that, I had trouble with Git, like when it said git not recognized or remote origin already exists.
+Even though it was frustrating, I learned how to fix routing problems in Express, connect MySQL properly, and push my project to GitHub. I realized that most of the mistakes were small things (like wrong URLs or setup steps) 
+but they taught me how to debug better. Overall, this activity helped me understand CRUD APIs more clearly and gave me practice solving real errors.
